@@ -1,0 +1,6 @@
+timestamp,gesture,confidence,duration_ms,hand
+1716300001,swipe_left,0.95,320,right
+1716300002,pinch,0.88
+1716300003,tap,0.99,80,left
+1716300004,swipe_right,0.92,410,right,EXTRA_DATA
+1716300005,pinch,0.85,180,left
